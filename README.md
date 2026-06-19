@@ -68,24 +68,7 @@ Zeugnis ausgeben
 
 | Tool / Software      | Version     | Zweck                          |
 |----------------------|-------------|--------------------------------|
-| [z. B. VS Code]      | [z. B. 1.89]| Code-Editor                    |
-| [z. B. Android Studio| [z. B. 2024]| Emulator / Build               |
-| [z. B. Node.js]      | [z. B. 20.x]| Laufzeitumgebung               |
-| [z. B. npm]          | [z. B. 10.x]| Paketverwaltung                |
-| [z. B. Git]          | [z. B. 2.45]| Versionskontrolle              |
+| [ItelliJi]           | [2026.01.01]| Code-Editor                    |
+| [ GitHub]            | [online]    | Versionskontrolle              |
 
-### Frameworks & Bibliotheken
 
-| Paket / Framework    | Version     | Zweck                          |
-|----------------------|-------------|--------------------------------|
-| [z. B. Ionic]        | [z. B. 7.x] | UI-Framework                   |
-| [z. B. Angular]      | [z. B. 17.x]| Frontend-Framework             |
-| [z. B. Capacitor]    | [z. B. 5.x] | Native Device APIs             |
-| [z. B. Axios]        | [z. B. 1.x] | HTTP-Anfragen                  |
-
-### Betriebssystem (Entwicklung)
-
-- **OS:** [z. B. Windows 11 / macOS 14 / Ubuntu 24.04]
-
-- [ ] [z. B. Funktioniert nur auf Android, nicht auf iOS]
-- [ ] [z. B. Keine Offline-Unterstützung]
